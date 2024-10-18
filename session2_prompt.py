@@ -20,8 +20,6 @@ i3 = i1 - i2
 print(i3)
 print(type(i3))
 
-#define 2 variables
-
 #define another 2 variables where one equals an integer and another a floating point number
 a = 6
 b = 8.1
